@@ -1,0 +1,19 @@
+.table .main {
+  width: 200px;
+  max-width: 100%;
+  text-align: center;
+}
+.table tr td {
+  width: 30ch;
+  max-width: 100%;
+  text-align: center;
+}
+.table thead {
+  width: 200px;
+  max-width: 100%;
+  text-align: center;
+}
+
+.clickable {
+  cursor: pointer;
+}
